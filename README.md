@@ -18,5 +18,6 @@ Dairy Auditing System is a multi user login system, in which multiple dairies ca
 * Phone number authentication 
 
 # Website link
-[milkcrate](https://milkcrate2022.herokuapp.com/)
+* [milkcrate](https://milkcrate2022.herokuapp.com/)
+* [android app-release.apk](https://github.com/RisingDemon/MilkCrate/releases/download/version1/app-release.apk)
 
